@@ -1,6 +1,7 @@
 import React from "react";
 
-function Article() {
+function Article() 
+{
   return (
     <div>
       please pass this test
